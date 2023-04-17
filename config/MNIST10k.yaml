@@ -1,0 +1,9 @@
+data_name: MNIST10k
+gamma: 1
+
+block: 15
+lr: 0.01
+epoch: 100
+lambda: 1
+alpha: 1
+thre: 0.1

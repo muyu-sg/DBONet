@@ -1,0 +1,6 @@
+data_name: ALOI
+gamma: 1
+block: 5
+lr: 0.01
+epoch: 50
+thre: 0.1

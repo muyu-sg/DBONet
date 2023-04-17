@@ -1,0 +1,6 @@
+data_name: Caltech101-all
+gamma: 1
+block: 5
+lr: 0.001
+epoch: 150
+thre: 0.1

@@ -1,0 +1,6 @@
+data_name: MITIndoor
+gamma: 1
+block: 5
+lr: 0.01
+epoch: 150
+thre: 0.1

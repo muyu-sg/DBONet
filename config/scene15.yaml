@@ -1,0 +1,6 @@
+data_name: scene15
+gamma: 1
+block: 9
+lr: 0.001
+epoch: 150
+thre: 0.01
