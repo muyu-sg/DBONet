@@ -23,7 +23,7 @@ Training and evaluation.
 python run.py
 ```
 
-##Cite
+## Cite
 ```
 @article{fang2023dbo,
   title={DBO-Net: Differentiable Bi-level Optimization Network for Multi-view Clustering},
